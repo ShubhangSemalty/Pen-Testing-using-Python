@@ -1,9 +1,5 @@
 # Pen-Testing-using-Python
 
-Python scripts for penetration testing
-
-Projects related to ethical hacking and penetration testing.
-
 Requirements:
 
 Kali-Linux OS [Virtual Box /VMWare /Dualboot] [+] Download link -https://www.kali.org/downloads/ [+] Oracle Virtual box download link - https://www.virtualbox.org/wiki/Downloads
